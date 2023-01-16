@@ -1,6 +1,6 @@
 # chicory_ble
 
-Repo contains the hex files for flashing chicory ble keyboard using ydbk.io flashing tool.
+Repo contains the hex files for flashing chicory ble keyboard using [ydbk.io](https://ydkb.io/) flashing tool.
 
 To flash download the [flashing tool](https://ydkb.io/YDKBs-reflash.zip).
 
